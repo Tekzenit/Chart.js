@@ -1659,6 +1659,7 @@
 				this.xScalePaddingLeft = this.padding;
 			}
 
+			this.xLabelRotation = 0;
 		},
 		// Needs to be overidden in each Chart type
 		// Otherwise we need to pass all the data into the scale class
